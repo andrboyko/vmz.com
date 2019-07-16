@@ -6,19 +6,17 @@ body {
     color: #333;
 }
 
-header   {
-    background-image: url(../images/bg1.JPG);
+header {
+    background-image: url(../images/bg3.jpg);
 }
 
-.content h2 {
-    margin: 0px;
-    padding: 0px;
 
+
+.section-b {
+    background-color: #ebebeb;
 }
 
-.container-2 {
-    margin-top: 50px;
-}
+
 
 @media screen and (max-height: 768px) {
 
@@ -29,5 +27,5 @@ header   {
     }
 
     .link_underline {
-        text-decoration: underline;
+        /*        text-decoration: underline;*/
     }

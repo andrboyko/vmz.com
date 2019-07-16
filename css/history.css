@@ -3,11 +3,12 @@ a {
 }
 
 body {
-    color: #333;
+    color: #fff;
+    background-color: #444;
 }
 
-header   {
-    background-image: url(../images/bg1.JPG);
+header {
+    background-image: url(../images/history/bg11.jpg);
 }
 
 .content h2 {
@@ -18,6 +19,8 @@ header   {
 
 .container-2 {
     margin-top: 50px;
+    width: 60%;
+    margin-left: 20%
 }
 
 @media screen and (max-height: 768px) {
